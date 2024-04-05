@@ -78,6 +78,9 @@ There are 2 labs in this workshop:
   - Deploy Model by navigating to `ml-pipelines` cli or sdk and running corresponding notebooks
   - In this lab, we also provided ci-cd folder to demonstrate Azure Pipeline or Github action orchestration of CI/CD pipeline. 
     - For GH Actions follow https://github.com/lenisha/mlops-v2-workshop/blob/main/ci-cd/README-GH.md
+   
+## Hands-on End-to-end machine learning operations (MLOps) with Azure Machine Learning
+  - Learn via hands-on workshop: https://learn.microsoft.com/en-us/training/paths/build-first-machine-operations-workflow/
 
 
 
